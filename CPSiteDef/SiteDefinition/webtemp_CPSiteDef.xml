@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Templates xmlns:ows="Microsoft SharePoint">
+  <Template Name="CPSiteDef" ID="10000">
+	  <Configuration
+		  ID="0"
+		  Title="Code Project Test Site"
+		  Hidden="false"
+		  ImageUrl="/_layouts/images/stbs.png"
+		  Description="A site to demonstrate Site Definition"
+		  DisplayCategory="Code Project"
+		  SubWebOnly="TRUE">
+	  </Configuration>
+  </Template>
+</Templates>

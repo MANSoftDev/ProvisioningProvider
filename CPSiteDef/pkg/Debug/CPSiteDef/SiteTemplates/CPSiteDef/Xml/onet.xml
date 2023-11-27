@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Title="CPSiteDef" Revision="2" ListDir="" xmlns:ows="Microsoft SharePoint" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <NavBars>
+  </NavBars>
+  <Configurations>
+    <Configuration ID="0" Name="CPSiteDef" MasterUrl="_catalogs/masterpage/v4.master">
+		<Lists />
+		<Modules>
+			<Module Name="DefaultBlank" />
+		</Modules>
+		<SiteFeatures>
+			<!-- BasicWebParts Feature -->
+			<Feature ID="00BFEA71-1C5E-4A24-B310-BA51C3EB7A57" />
+			<!-- Three-state Workflow Feature -->
+			<Feature ID="FDE5D850-671E-4143-950A-87B473922DC7" />
+		</SiteFeatures>
+		<WebFeatures>
+			<!-- TeamCollab Feature -->
+			<Feature ID="00BFEA71-4EA5-48D4-A4AD-7EA5C011ABE5" />
+			<!-- MobilityRedirect -->
+			<Feature ID="F41CC668-37E5-4743-B4A8-74D1DB3FD8A4" />
+		</WebFeatures>
+    </Configuration>
+  </Configurations>
+  <Modules>
+	  <Module Name="DefaultBlank" Url="" Path="">
+		  <File Url="default.aspx" NavBarHome="True" Type="Ghostable">
+			  <NavBarPage Name="$Resources:core,nav_Home;" Url="~site" ID="1002" Position="Start" />
+			  <NavBarPage Name="$Resources:core,nav_Home;" Url="" ID="0" Position="Start" />
+		  </File>
+	  </Module>
+  </Modules>
+</Project>

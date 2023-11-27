@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Hidden="TRUE" Id="a4c6c58b-197a-42ef-b242-0068d943165b" Scope="Web" Title="CPSiteProvider Provisioning Data">
+  <ElementManifests>
+    <ElementManifest Location="ProvisioningData\Elements.xml" />
+    <ElementFile Location="ProvisioningData\CPSiteProvider.xml" />
+    <ElementManifest Location="Pages\Elements.xml" />
+    <ElementFile Location="Pages\default.aspx" />
+  </ElementManifests>
+</Feature>

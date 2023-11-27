@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Templates>
+  <Template Name="CPSiteProvider" ID="25001">
+    <Configuration
+			ID="0"
+			Title="Code Project Site Provisioning Provider"
+			Hidden="false"
+			ImageUrl="/_layouts/images/CPSiteProvider/CP_Logo.png"
+			Description="A demonstration or using a custom Site Provisioning Provider"
+			DisplayCategory="Code Project"
+			ProvisionAssembly="$SharePoint.Project.AssemblyFullName$"
+			ProvisionClass="CPSiteProvider.ProvisioningProvider"
+			ProvisionData="TEMPLATE\FEATURES\CPSiteProvider_SiteData\ProvisioningData\CPSiteProvider.xml"
+			SubWebOnly="TRUE">
+    </Configuration>
+  </Template>
+</Templates>

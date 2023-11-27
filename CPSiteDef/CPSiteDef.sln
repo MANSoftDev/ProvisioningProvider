@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPSiteDef", "CPSiteDef.csproj", "{74AFDF99-986A-4212-983A-E5168A5EBC9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPSiteProvider", "..\CPSiteProvider\CPSiteProvider.csproj", "{1B98F01F-520F-44E6-815B-D470CF30DDCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74AFDF99-986A-4212-983A-E5168A5EBC9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74AFDF99-986A-4212-983A-E5168A5EBC9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74AFDF99-986A-4212-983A-E5168A5EBC9C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{74AFDF99-986A-4212-983A-E5168A5EBC9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74AFDF99-986A-4212-983A-E5168A5EBC9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74AFDF99-986A-4212-983A-E5168A5EBC9C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1B98F01F-520F-44E6-815B-D470CF30DDCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B98F01F-520F-44E6-815B-D470CF30DDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B98F01F-520F-44E6-815B-D470CF30DDCF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1B98F01F-520F-44E6-815B-D470CF30DDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B98F01F-520F-44E6-815B-D470CF30DDCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B98F01F-520F-44E6-815B-D470CF30DDCF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

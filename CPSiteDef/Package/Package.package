@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" Id="82723e9c-c635-4941-9a84-54aa65d279a4" solutionId="82723e9c-c635-4941-9a84-54aa65d279a4" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" name="CPSiteDef">
+    <projectItems>
+        <projectItemReference itemId="032f641f-d4cc-49a0-ba64-317b084a7880" />
+    </projectItems>
+</package>

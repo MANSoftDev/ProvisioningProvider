@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="5f372cfe-d675-4ada-997e-a9580d232fed" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="CPSiteProvider.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="1033\XML\webtemp_CPSiteProvider.xml" />
+    <TemplateFile Location="Images\CPSiteProvider\cp_logo.png" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="CPSiteProvider_SiteData\Feature.xml" />
+  </FeatureManifests>
+</Solution>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="DefaultBlank" Url="" Path="">
+    <File Path="Pages\default.aspx" Url="default.aspx" />
+</Module>
+</Elements>
